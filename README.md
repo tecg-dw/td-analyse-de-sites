@@ -127,7 +127,9 @@ Groupe 2 : http://www.jeuxvideo.com/
 - Bertrand    Marie
 - Jendrzejczyk    Christine
 - Remacle Christophe
+
 * * *
+
 Les sites à analyser pour le séminaire du mercredi 22 mars sont :
 
 Groupe 3 :
@@ -143,7 +145,9 @@ Groupe 4 :
 - Martinez    Gabriel
 - Cloutier    Stéphanie
 - Gason   Felix
+
 * * * 
+
 Les sites à analyser pour le séminaire du mercredi 29 mars sont :
 
 Groupe 5 : 
