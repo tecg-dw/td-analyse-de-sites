@@ -132,14 +132,14 @@ Groupe 2 : http://www.jeuxvideo.com/
 
 Les sites à analyser pour le séminaire du mercredi 22 mars sont :
 
-Groupe 3 :
+Groupe 3 : https://www.saint-luc.be
 
 - Beaumecker  Anthony
 - Müller  Cédric
 - Fraiture    Lauranne
 - Merli   Marvin
 
-Groupe 4 :
+Groupe 4 : http://www.assurances-leonard.be
 
 - George  Quentin
 - Martinez    Gabriel
