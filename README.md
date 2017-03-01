@@ -150,7 +150,7 @@ Groupe 4 : http://www.assurances-leonard.be
 
 Les sites à analyser pour le séminaire du mercredi 29 mars sont :
 
-Groupe 5 : 
+Groupe 5 : http://www.infotec.be
 
 - Lieben  Thomas
 - Bouvier Olivier
