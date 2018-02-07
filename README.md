@@ -114,49 +114,24 @@ Pour chaque résultat négatif, veillez bien à donner quelques exemples concret
 ## Sites à analyser
 Les sites à analyser pour le séminaire du mercredi 15 mars sont :
 
-Groupe 1 : http://www.kidibul.be/
-
-- Ouras El Ouad   Mehdy
-- Scibetta    Maxime
-- Gava    Lucas
-- Simonis Képhren
-
-Groupe 2 : http://www.jeuxvideo.com/
-
-- Closquet    Eric
-- Bertrand    Marie
-- Jendrzejczyk    Christine
-- Remacle Christophe
+Groupe 1 : 
+Groupe 2 : 
 
 * * *
 
 Les sites à analyser pour le séminaire du mercredi 22 mars sont :
 
-Groupe 3 : https://www.saint-luc.be
-
-- Beaumecker  Anthony
-- Müller  Cédric
-- Fraiture    Lauranne
-- Merli   Marvin
-
-Groupe 4 : http://www.assurances-leonard.be
-
-- George  Quentin
-- Martinez    Gabriel
-- Cloutier    Stéphanie
-- Gason   Felix
+Groupe 3 : 
+Groupe 4 : 
 
 * * * 
 
 Les sites à analyser pour le séminaire du mercredi 29 mars sont :
 
-Groupe 5 : http://www.infotec.be
+Groupe 5 : 
 
-- Lieben  Thomas
-- Bouvier Olivier
-- Delaunoy    Félix
-- Lepot   Jean-Christophe
-   
+* * *
+
 Je rappelle que vous devez me rendre à la fin de la séance un dossier écrit
 reprenant vos observations, rapports, commentaires, analyses et conclusions ainsi qu'un CD reprenant tous les fichiers utiles (vos captures d'écran, vidéos, les fichiers de votre refonte, ...).
 
