@@ -41,7 +41,7 @@ Chaque groupe de travail analysera un site et disposera de 45-50 minutes pour pr
 
 Deux groupes présenteront donc par séance.
 
-Afin que vous disposiez tous du même délai de préparation, le site à anlyser sera fourni 2 semaines avant la date de présentation.
+Afin que vous disposiez tous du même délai de préparation, le site à anlyser sera fourni 4 semaines avant la date de présentation.
 
 ## Consignes plus formelles et détaillées à respecter attentivement
 
