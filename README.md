@@ -39,7 +39,7 @@ Vous travaillerez par groupe de 3.
 
 Chaque groupe de travail analysera un site et disposera de 45-50 minutes pour présenter son travail, suivie de 15-20 minutes de questions et feedbacks sur sa présentation, soit une heure à une heure 1/4 par groupe.
 
-Trois groupes présenteront donc par séance.
+Deux groupes présenteront donc par séance.
 
 Afin que vous disposiez tous du même délai de préparation, le site à anlyser sera fourni 2 semaines avant la date de présentation.
 
