@@ -114,21 +114,21 @@ Pour chaque résultat négatif, veillez bien à donner quelques exemples concret
 ## Sites à analyser
 Les sites à analyser pour le séminaire du mercredi 6 mars sont :
 
-Groupe 1 : Florence, Morgane, Céline
-Groupe 2 : Maxime, Goran, Cédric
+- Groupe 1 : Florence, Morgane, Céline
+- Groupe 2 : Maxime, Goran, Cédric
 
 * * *
 
 Les sites à analyser pour le séminaire du mercredi 13 mars sont :
 
-Groupe 3 : Michaël, Lysander, Marvin
-Groupe 4 : Sean, Tom, Vincent
+- Groupe 3 : Michaël, Lysander, Marvin
+- Groupe 4 : Sean, Tom, Vincent
 
 * * * 
 
 Les sites à analyser pour le séminaire du mercredi 20 mars sont :
 
-Groupe 5 : Yves, Nicolas, Anthony
+- Groupe 5 : Yves, Nicolas, Anthony
 
 * * *
 
