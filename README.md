@@ -112,21 +112,21 @@ deux pages de contenu typiques pour le site analysé.
 Pour chaque résultat négatif, veillez bien à donner quelques exemples concrets.
 
 ## Sites à analyser
-Les sites à analyser pour le séminaire du mercredi 6 mars sont :
+Les sites à analyser pour le séminaire du mercredi 13 mars sont :
 
-- Groupe 1 : Florence, Morgane, Céline
-- Groupe 2 : Maxime, Goran, Cédric
+- Groupe 1 : Florence, Morgane, Céline : https://www.ryanair.com
+- Groupe 2 : Maxime, Goran, Cédric : https://www.booking.com
 
 * * *
 
-Les sites à analyser pour le séminaire du mercredi 13 mars sont :
+Les sites à analyser pour le séminaire du mercredi 20 mars sont :
 
 - Groupe 3 : Michaël, Lysander, Marvin
 - Groupe 4 : Sean, Tom, Vincent
 
 * * * 
 
-Les sites à analyser pour le séminaire du mercredi 20 mars sont :
+Les sites à analyser pour le séminaire du mercredi 27 mars sont :
 
 - Groupe 5 : Yves, Nicolas, Anthony
 
