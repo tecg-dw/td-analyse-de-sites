@@ -122,13 +122,18 @@ Les sites à analyser pour le séminaire du mercredi 13 mars sont :
 Les sites à analyser pour le séminaire du mercredi 20 mars sont :
 
 - Groupe 3 : Michaël, Lysander, Marvin : https://www.airbnb.com
-- Groupe 4 : Sean, Tom, Vincent : https://grignoux.be
 
 * * * 
 
 Les sites à analyser pour le séminaire du mercredi 27 mars sont :
 
-- Groupe 5 : Yves, Nicolas, Anthony
+- Groupe 4 : Sean, Tom, Vincent : https://grignoux.be
+
+* * * 
+
+Les sites à analyser pour le séminaire du mercredi 3 avril sont :
+
+- Groupe 5 : Yves, Nicolas, Anthony : https://www.resto.be
 
 * * *
 
