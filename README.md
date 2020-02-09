@@ -114,8 +114,8 @@ Pour chaque résultat négatif, veillez bien à donner quelques exemples concret
 ## Sites à analyser
 Les sites à analyser pour le séminaire du *** mars sont :
 
-- Groupe 1 :  : https://
-- Groupe 2 :  : https://
+- Groupe 1 :  : https://mithra.com
+- Groupe 2 :  : https://latetedelemploi.be/fr/
 
 * * *
 
