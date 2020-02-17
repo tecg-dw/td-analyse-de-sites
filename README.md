@@ -112,22 +112,22 @@ deux pages de contenu typiques pour le site analysé.
 Pour chaque résultat négatif, veillez bien à donner quelques exemples concrets.
 
 ## Sites à analyser
-Les sites à analyser pour le séminaire du *** mars sont :
+Les sites à analyser pour le séminaire du 02 mars sont :
 
 - Groupe 1 :  : https://mithra.com
 - Groupe 2 :  : https://latetedelemploi.be/fr/
 
 * * *
 
-Les sites à analyser pour le séminaire du *** mars sont :
+Les sites à analyser pour le séminaire du 09 mars sont :
 
-- Groupe 3 :  : https://
+- Groupe 3 :  : https://www.grignoux.be/fr/
 
 * * * 
 
-Les sites à analyser pour le séminaire du mercredi *** sont :
+Les sites à analyser pour le séminaire du lundi 16 mars sont :
 
-- Groupe 4 :  : https://
+- Groupe 4 :  : https://www.leforum.be/
 
 * * * 
 
